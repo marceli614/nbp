@@ -1,0 +1,700 @@
+15:26:05,618 root INFO Wyslam zadanie Get na zadany host:
+15:26:05,619 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+15:26:05,701 root INFO Sprawdzenie Czasu:
+15:26:05,701 root INFO 0:00:00.070858
+15:26:05,702 root INFO Sprawdzenie Status Code:
+15:26:05,702 root INFO 200
+15:26:05,702 root INFO Sprawdzenie Content type:
+15:26:05,703 root INFO application/json; charset=utf-8
+15:26:05,749 root INFO Sprawdzenie struktury JSONa:
+15:26:05,778 root INFO None
+15:26:11,49 root INFO Wyslam zadanie Get na zadany host:
+15:26:11,49 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+15:26:11,155 root INFO Sprawdzenie Czasu:
+15:26:11,156 root INFO 0:00:00.101720
+15:26:11,156 root INFO Sprawdzenie Status Code:
+15:26:11,157 root INFO 200
+15:26:11,157 root INFO Sprawdzenie Content type:
+15:26:11,158 root INFO application/json; charset=utf-8
+15:26:11,192 root INFO Sprawdzenie struktury JSONa:
+15:26:11,290 root INFO None
+15:26:16,291 root INFO Wyslam zadanie Get na zadany host:
+15:26:16,291 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+15:26:16,338 root INFO Sprawdzenie Czasu:
+15:26:16,339 root INFO 0:00:00.043737
+15:26:16,339 root INFO Sprawdzenie Status Code:
+15:26:16,339 root INFO 200
+15:26:16,339 root INFO Sprawdzenie Content type:
+15:26:16,340 root INFO application/json; charset=utf-8
+15:26:16,375 root INFO Sprawdzenie struktury JSONa:
+15:26:16,398 root INFO None
+15:26:21,411 root INFO Wyslam zadanie Get na zadany host:
+15:26:21,411 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+15:26:22,470 root INFO Sprawdzenie Czasu:
+15:26:22,471 root INFO 0:00:01.054755
+15:26:22,471 root INFO Sprawdzenie Status Code:
+15:26:22,471 root INFO 200
+15:26:22,472 root INFO Sprawdzenie Content type:
+15:26:22,472 root INFO application/json; charset=utf-8
+15:26:22,503 root INFO Sprawdzenie struktury JSONa:
+15:26:22,525 root INFO None
+15:26:27,526 root INFO Wyslam zadanie Get na zadany host:
+15:26:27,528 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+15:26:28,584 root INFO Sprawdzenie Czasu:
+15:26:28,585 root INFO 0:00:01.050692
+15:26:28,585 root INFO Sprawdzenie Status Code:
+15:26:28,585 root INFO 200
+15:26:28,586 root INFO Sprawdzenie Content type:
+15:26:28,586 root INFO application/json; charset=utf-8
+15:26:28,628 root INFO Sprawdzenie struktury JSONa:
+15:26:28,650 root INFO None
+15:26:33,665 root INFO Wyslam zadanie Get na zadany host:
+15:26:33,665 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+15:26:33,705 root INFO Sprawdzenie Czasu:
+15:26:33,705 root INFO 0:00:00.035190
+15:26:33,706 root INFO Sprawdzenie Status Code:
+15:26:33,706 root INFO 200
+15:26:33,707 root INFO Sprawdzenie Content type:
+15:26:33,707 root INFO application/json; charset=utf-8
+15:26:33,745 root INFO Sprawdzenie struktury JSONa:
+15:26:33,767 root INFO None
+15:26:38,781 root INFO Wyslam zadanie Get na zadany host:
+15:26:38,781 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+15:26:39,849 root INFO Sprawdzenie Czasu:
+15:26:39,850 root INFO 0:00:01.063453
+15:26:39,850 root INFO Sprawdzenie Status Code:
+15:26:39,850 root INFO 200
+15:26:39,851 root INFO Sprawdzenie Content type:
+15:26:39,851 root INFO application/json; charset=utf-8
+15:26:39,893 root INFO Sprawdzenie struktury JSONa:
+15:26:39,914 root INFO None
+15:26:44,926 root INFO Wyslam zadanie Get na zadany host:
+15:26:44,926 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+15:26:44,985 root INFO Sprawdzenie Czasu:
+15:26:44,986 root INFO 0:00:00.053760
+15:26:44,986 root INFO Sprawdzenie Status Code:
+15:26:44,986 root INFO 200
+15:26:44,987 root INFO Sprawdzenie Content type:
+15:26:44,987 root INFO application/json; charset=utf-8
+15:26:45,30 root INFO Sprawdzenie struktury JSONa:
+15:26:45,54 root INFO None
+15:26:50,67 root INFO Wyslam zadanie Get na zadany host:
+15:26:50,67 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+15:26:50,120 root INFO Sprawdzenie Czasu:
+15:26:50,120 root INFO 0:00:00.047581
+15:26:50,121 root INFO Sprawdzenie Status Code:
+15:26:50,121 root INFO 200
+15:26:50,122 root INFO Sprawdzenie Content type:
+15:26:50,122 root INFO application/json; charset=utf-8
+15:26:50,159 root INFO Sprawdzenie struktury JSONa:
+15:26:50,183 root INFO None
+15:26:55,192 root INFO Wyslam zadanie Get na zadany host:
+15:26:55,192 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+15:26:56,246 root INFO Sprawdzenie Czasu:
+15:26:56,246 root INFO 0:00:01.049209
+15:26:56,247 root INFO Sprawdzenie Status Code:
+15:26:56,247 root INFO 200
+15:26:56,248 root INFO Sprawdzenie Content type:
+15:26:56,248 root INFO application/json; charset=utf-8
+15:26:56,289 root INFO Sprawdzenie struktury JSONa:
+15:26:56,310 root INFO None
+16:44:26,824 root INFO Wyslam zadanie Get na zadany host:
+16:44:26,842 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+16:44:27,98 root INFO Sprawdzenie Czasu:
+16:44:27,98 root INFO 0:00:00.136286
+16:44:27,99 root INFO Sprawdzenie Status Code:
+16:44:27,99 root INFO 200
+16:44:27,100 root INFO Sprawdzenie Content type:
+16:44:27,100 root INFO application/json; charset=utf-8
+16:44:27,140 root INFO Sprawdzenie struktury JSONa:
+16:44:27,162 root INFO None
+16:44:32,174 root INFO Wyslam zadanie Get na zadany host:
+16:44:32,174 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+16:44:32,236 root INFO Sprawdzenie Czasu:
+16:44:32,237 root INFO 0:00:00.055994
+16:44:32,237 root INFO Sprawdzenie Status Code:
+16:44:32,237 root INFO 200
+16:44:32,238 root INFO Sprawdzenie Content type:
+16:44:32,238 root INFO application/json; charset=utf-8
+16:44:32,288 root INFO Sprawdzenie struktury JSONa:
+16:44:32,309 root INFO None
+16:44:37,319 root INFO Wyslam zadanie Get na zadany host:
+16:44:37,319 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+16:44:37,373 root INFO Sprawdzenie Czasu:
+16:44:37,373 root INFO 0:00:00.048656
+16:44:37,374 root INFO Sprawdzenie Status Code:
+16:44:37,374 root INFO 200
+16:44:37,374 root INFO Sprawdzenie Content type:
+16:44:37,375 root INFO application/json; charset=utf-8
+16:44:37,419 root INFO Sprawdzenie struktury JSONa:
+16:44:37,440 root INFO None
+16:44:42,444 root INFO Wyslam zadanie Get na zadany host:
+16:44:42,444 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+16:44:42,493 root INFO Sprawdzenie Czasu:
+16:44:42,493 root INFO 0:00:00.043183
+16:44:42,494 root INFO Sprawdzenie Status Code:
+16:44:42,494 root INFO 200
+16:44:42,495 root INFO Sprawdzenie Content type:
+16:44:42,495 root INFO application/json; charset=utf-8
+16:44:42,532 root INFO Sprawdzenie struktury JSONa:
+16:44:42,553 root INFO None
+16:44:47,557 root INFO Wyslam zadanie Get na zadany host:
+16:44:47,557 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+16:44:47,603 root INFO Sprawdzenie Czasu:
+16:44:47,603 root INFO 0:00:00.040482
+16:44:47,604 root INFO Sprawdzenie Status Code:
+16:44:47,604 root INFO 200
+16:44:47,604 root INFO Sprawdzenie Content type:
+16:44:47,605 root INFO application/json; charset=utf-8
+16:44:47,652 root INFO Sprawdzenie struktury JSONa:
+16:44:47,673 root INFO None
+16:44:52,682 root INFO Wyslam zadanie Get na zadany host:
+16:44:52,682 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+16:44:53,740 root INFO Sprawdzenie Czasu:
+16:44:53,741 root INFO 0:00:01.053135
+16:44:53,741 root INFO Sprawdzenie Status Code:
+16:44:53,741 root INFO 200
+16:44:53,742 root INFO Sprawdzenie Content type:
+16:44:53,742 root INFO application/json; charset=utf-8
+16:44:53,780 root INFO Sprawdzenie struktury JSONa:
+16:44:53,802 root INFO None
+16:44:58,810 root INFO Wyslam zadanie Get na zadany host:
+16:44:58,810 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+16:44:58,847 root INFO Sprawdzenie Czasu:
+16:44:58,847 root INFO 0:00:00.031833
+16:44:58,895 root INFO Sprawdzenie Status Code:
+16:44:58,895 root INFO 200
+16:44:58,896 root INFO Sprawdzenie Content type:
+16:44:58,896 root INFO application/json; charset=utf-8
+16:44:58,927 root INFO Sprawdzenie struktury JSONa:
+16:44:58,948 root INFO None
+16:45:03,951 root INFO Wyslam zadanie Get na zadany host:
+16:45:03,951 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+16:45:04,6 root INFO Sprawdzenie Czasu:
+16:45:04,6 root INFO 0:00:00.049464
+16:45:04,7 root INFO Sprawdzenie Status Code:
+16:45:04,7 root INFO 200
+16:45:04,7 root INFO Sprawdzenie Content type:
+16:45:04,8 root INFO application/json; charset=utf-8
+16:45:04,48 root INFO Sprawdzenie struktury JSONa:
+16:45:04,68 root INFO None
+16:45:09,72 root INFO Wyslam zadanie Get na zadany host:
+16:45:09,72 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+16:45:09,112 root INFO Sprawdzenie Czasu:
+16:45:09,112 root INFO 0:00:00.034733
+16:45:09,113 root INFO Sprawdzenie Status Code:
+16:45:09,113 root INFO 200
+16:45:09,113 root INFO Sprawdzenie Content type:
+16:45:09,114 root INFO application/json; charset=utf-8
+16:45:09,146 root INFO Sprawdzenie struktury JSONa:
+16:45:09,169 root INFO None
+16:45:14,184 root INFO Wyslam zadanie Get na zadany host:
+16:45:14,184 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+16:45:15,228 root INFO Sprawdzenie Czasu:
+16:45:15,229 root INFO 0:00:01.039365
+16:45:15,229 root INFO Sprawdzenie Status Code:
+16:45:15,229 root INFO 200
+16:45:15,230 root INFO Sprawdzenie Content type:
+16:45:15,230 root INFO application/json; charset=utf-8
+16:45:15,266 root INFO Sprawdzenie struktury JSONa:
+16:45:15,290 root INFO None
+17:08:14,396 root INFO Wyslam zadanie Get na zadany host:
+17:08:14,420 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:08:14,485 root INFO Sprawdzenie Czasu:
+17:08:14,486 root INFO 0:00:00.055703
+17:08:14,486 root INFO Sprawdzenie Status Code:
+17:08:14,486 root INFO 200
+17:08:14,486 root INFO Sprawdzenie Content type:
+17:08:14,486 root INFO application/json; charset=utf-8
+17:08:14,510 root INFO Sprawdzenie struktury JSONa:
+17:08:14,535 root INFO None
+17:08:19,546 root INFO Wyslam zadanie Get na zadany host:
+17:08:19,546 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:08:19,602 root INFO Sprawdzenie Czasu:
+17:08:19,602 root INFO 0:00:00.050242
+17:08:19,603 root INFO Sprawdzenie Status Code:
+17:08:19,603 root INFO 200
+17:08:19,603 root INFO Sprawdzenie Content type:
+17:08:19,603 root INFO application/json; charset=utf-8
+17:08:19,630 root INFO Sprawdzenie struktury JSONa:
+17:08:19,652 root INFO None
+17:08:24,658 root INFO Wyslam zadanie Get na zadany host:
+17:08:24,658 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:08:24,711 root INFO Sprawdzenie Czasu:
+17:08:24,711 root INFO 0:00:00.046065
+17:08:24,712 root INFO Sprawdzenie Status Code:
+17:08:24,712 root INFO 200
+17:08:24,712 root INFO Sprawdzenie Content type:
+17:08:24,713 root INFO application/json; charset=utf-8
+17:08:24,747 root INFO Sprawdzenie struktury JSONa:
+17:08:24,769 root INFO None
+17:08:29,773 root INFO Wyslam zadanie Get na zadany host:
+17:08:29,773 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:08:29,829 root INFO Sprawdzenie Czasu:
+17:08:29,829 root INFO 0:00:00.049568
+17:08:29,829 root INFO Sprawdzenie Status Code:
+17:08:29,830 root INFO 200
+17:08:29,830 root INFO Sprawdzenie Content type:
+17:08:29,830 root INFO application/json; charset=utf-8
+17:08:29,857 root INFO Sprawdzenie struktury JSONa:
+17:08:29,878 root INFO None
+17:08:34,886 root INFO Wyslam zadanie Get na zadany host:
+17:08:34,886 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:08:34,929 root INFO Sprawdzenie Czasu:
+17:08:34,929 root INFO 0:00:00.037125
+17:08:34,929 root INFO Sprawdzenie Status Code:
+17:08:34,930 root INFO 200
+17:08:34,930 root INFO Sprawdzenie Content type:
+17:08:34,930 root INFO application/json; charset=utf-8
+17:08:34,971 root INFO Sprawdzenie struktury JSONa:
+17:08:34,993 root INFO None
+17:08:40,1 root INFO Wyslam zadanie Get na zadany host:
+17:08:40,1 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:08:40,43 root INFO Sprawdzenie Czasu:
+17:08:40,43 root INFO 0:00:00.036230
+17:08:40,44 root INFO Sprawdzenie Status Code:
+17:08:40,44 root INFO 200
+17:08:40,44 root INFO Sprawdzenie Content type:
+17:08:40,44 root INFO application/json; charset=utf-8
+17:08:40,79 root INFO Sprawdzenie struktury JSONa:
+17:08:40,100 root INFO None
+17:08:45,108 root INFO Wyslam zadanie Get na zadany host:
+17:08:45,108 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:08:45,154 root INFO Sprawdzenie Czasu:
+17:08:45,154 root INFO 0:00:00.040083
+17:08:45,154 root INFO Sprawdzenie Status Code:
+17:08:45,155 root INFO 200
+17:08:45,155 root INFO Sprawdzenie Content type:
+17:08:45,156 root INFO application/json; charset=utf-8
+17:08:45,192 root INFO Sprawdzenie struktury JSONa:
+17:08:45,214 root INFO None
+17:08:50,220 root INFO Wyslam zadanie Get na zadany host:
+17:08:50,221 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:08:50,269 root INFO Sprawdzenie Czasu:
+17:08:50,269 root INFO 0:00:00.044728
+17:08:50,269 root INFO Sprawdzenie Status Code:
+17:08:50,269 root INFO 200
+17:08:50,270 root INFO Sprawdzenie Content type:
+17:08:50,270 root INFO application/json; charset=utf-8
+17:08:50,292 root INFO Sprawdzenie struktury JSONa:
+17:08:50,315 root INFO None
+17:08:55,330 root INFO Wyslam zadanie Get na zadany host:
+17:08:55,330 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:08:55,377 root INFO Sprawdzenie Czasu:
+17:08:55,377 root INFO 0:00:00.044111
+17:08:55,377 root INFO Sprawdzenie Status Code:
+17:08:55,377 root INFO 200
+17:08:55,378 root INFO Sprawdzenie Content type:
+17:08:55,378 root INFO application/json; charset=utf-8
+17:08:55,400 root INFO Sprawdzenie struktury JSONa:
+17:08:55,421 root INFO None
+17:09:00,426 root INFO Wyslam zadanie Get na zadany host:
+17:09:00,426 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:09:00,472 root INFO Sprawdzenie Czasu:
+17:09:00,472 root INFO 0:00:00.040011
+17:09:00,472 root INFO Sprawdzenie Status Code:
+17:09:00,473 root INFO 200
+17:09:00,473 root INFO Sprawdzenie Content type:
+17:09:00,474 root INFO application/json; charset=utf-8
+17:09:00,516 root INFO Sprawdzenie struktury JSONa:
+17:09:00,542 root INFO None
+17:13:19,832 root INFO Wyslam zadanie Get na zadany host:
+17:13:19,846 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:13:20,59 root INFO Sprawdzenie Czasu:
+17:13:20,59 root INFO 0:00:00.133785
+17:13:20,59 root INFO Sprawdzenie Status Code:
+17:13:20,60 root INFO 200
+17:13:20,61 root INFO Sprawdzenie Content type:
+17:13:20,61 root INFO application/json; charset=utf-8
+17:13:20,113 root INFO Sprawdzenie struktury JSONa:
+17:13:20,143 root INFO None
+17:13:25,152 root INFO Wyslam zadanie Get na zadany host:
+17:13:25,152 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:13:25,206 root INFO Sprawdzenie Czasu:
+17:13:25,206 root INFO 0:00:00.047200
+17:13:25,207 root INFO Sprawdzenie Status Code:
+17:13:25,207 root INFO 200
+17:13:25,214 root INFO Sprawdzenie Content type:
+17:13:25,215 root INFO application/json; charset=utf-8
+17:13:25,259 root INFO Sprawdzenie struktury JSONa:
+17:13:25,293 root INFO None
+17:13:30,308 root INFO Wyslam zadanie Get na zadany host:
+17:13:30,308 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:13:30,355 root INFO Sprawdzenie Czasu:
+17:13:30,355 root INFO 0:00:00.040600
+17:13:30,356 root INFO Sprawdzenie Status Code:
+17:13:30,357 root INFO 200
+17:13:30,363 root INFO Sprawdzenie Content type:
+17:13:30,364 root INFO application/json; charset=utf-8
+17:13:30,410 root INFO Sprawdzenie struktury JSONa:
+17:13:30,436 root INFO None
+17:13:35,440 root INFO Wyslam zadanie Get na zadany host:
+17:13:35,440 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:13:35,482 root INFO Sprawdzenie Czasu:
+17:13:35,482 root INFO 0:00:00.035354
+17:13:35,483 root INFO Sprawdzenie Status Code:
+17:13:35,483 root INFO 200
+17:13:35,490 root INFO Sprawdzenie Content type:
+17:13:35,490 root INFO application/json; charset=utf-8
+17:13:35,536 root INFO Sprawdzenie struktury JSONa:
+17:13:35,561 root INFO None
+17:13:40,573 root INFO Wyslam zadanie Get na zadany host:
+17:13:40,573 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:13:40,614 root INFO Sprawdzenie Czasu:
+17:13:40,614 root INFO 0:00:00.036399
+17:13:40,615 root INFO Sprawdzenie Status Code:
+17:13:40,615 root INFO 200
+17:13:40,622 root INFO Sprawdzenie Content type:
+17:13:40,622 root INFO application/json; charset=utf-8
+17:13:40,669 root INFO Sprawdzenie struktury JSONa:
+17:13:40,695 root INFO None
+17:13:45,698 root INFO Wyslam zadanie Get na zadany host:
+17:13:45,698 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:13:45,745 root INFO Sprawdzenie Czasu:
+17:13:45,745 root INFO 0:00:00.042726
+17:13:45,746 root INFO Sprawdzenie Status Code:
+17:13:45,747 root INFO 200
+17:13:45,754 root INFO Sprawdzenie Content type:
+17:13:45,755 root INFO application/json; charset=utf-8
+17:13:45,792 root INFO Sprawdzenie struktury JSONa:
+17:13:45,815 root INFO None
+17:13:50,825 root INFO Wyslam zadanie Get na zadany host:
+17:13:50,825 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:13:50,866 root INFO Sprawdzenie Czasu:
+17:13:50,866 root INFO 0:00:00.035714
+17:13:50,867 root INFO Sprawdzenie Status Code:
+17:13:50,868 root INFO 200
+17:13:50,874 root INFO Sprawdzenie Content type:
+17:13:50,875 root INFO application/json; charset=utf-8
+17:13:50,917 root INFO Sprawdzenie struktury JSONa:
+17:13:50,941 root INFO None
+17:13:55,954 root INFO Wyslam zadanie Get na zadany host:
+17:13:55,954 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:13:56,2 root INFO Sprawdzenie Czasu:
+17:13:56,2 root INFO 0:00:00.042854
+17:13:56,3 root INFO Sprawdzenie Status Code:
+17:13:56,4 root INFO 200
+17:13:56,12 root INFO Sprawdzenie Content type:
+17:13:56,12 root INFO application/json; charset=utf-8
+17:13:56,52 root INFO Sprawdzenie struktury JSONa:
+17:13:56,77 root INFO None
+17:14:01,91 root INFO Wyslam zadanie Get na zadany host:
+17:14:01,91 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:14:01,143 root INFO Sprawdzenie Czasu:
+17:14:01,143 root INFO 0:00:00.046796
+17:14:01,144 root INFO Sprawdzenie Status Code:
+17:14:01,144 root INFO 200
+17:14:01,151 root INFO Sprawdzenie Content type:
+17:14:01,152 root INFO application/json; charset=utf-8
+17:14:01,187 root INFO Sprawdzenie struktury JSONa:
+17:14:01,213 root INFO None
+17:14:06,219 root INFO Wyslam zadanie Get na zadany host:
+17:14:06,219 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:14:06,282 root INFO Sprawdzenie Czasu:
+17:14:06,283 root INFO 0:00:00.058240
+17:14:06,283 root INFO Sprawdzenie Status Code:
+17:14:06,284 root INFO 200
+17:14:06,290 root INFO Sprawdzenie Content type:
+17:14:06,291 root INFO application/json; charset=utf-8
+17:14:06,334 root INFO Sprawdzenie struktury JSONa:
+17:14:06,359 root INFO None
+17:24:25,638 root INFO Wyslam zadanie Get na zadany host:
+17:24:25,659 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:24:26,444 root INFO Sprawdzenie Czasu:
+17:24:26,444 root INFO 0:00:00.532622
+17:24:26,445 root INFO Sprawdzenie Status Code:
+17:24:26,445 root INFO 200
+17:24:26,453 root INFO Sprawdzenie Content type:
+17:24:26,453 root INFO application/json; charset=utf-8
+17:24:26,501 root INFO Sprawdzenie struktury JSONa:
+17:24:26,526 root INFO None
+17:24:31,532 root INFO Wyslam zadanie Get na zadany host:
+17:24:31,532 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:24:31,579 root INFO Sprawdzenie Czasu:
+17:24:31,579 root INFO 0:00:00.041527
+17:24:31,580 root INFO Sprawdzenie Status Code:
+17:24:31,580 root INFO 200
+17:24:31,587 root INFO Sprawdzenie Content type:
+17:24:31,588 root INFO application/json; charset=utf-8
+17:24:31,633 root INFO Sprawdzenie struktury JSONa:
+17:24:31,658 root INFO None
+17:24:36,662 root INFO Wyslam zadanie Get na zadany host:
+17:24:36,662 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:24:36,710 root INFO Sprawdzenie Czasu:
+17:24:36,710 root INFO 0:00:00.041500
+17:24:36,711 root INFO Sprawdzenie Status Code:
+17:24:36,711 root INFO 200
+17:24:36,719 root INFO Sprawdzenie Content type:
+17:24:36,720 root INFO application/json; charset=utf-8
+17:24:36,763 root INFO Sprawdzenie struktury JSONa:
+17:24:36,787 root INFO None
+17:24:41,794 root INFO Wyslam zadanie Get na zadany host:
+17:24:41,794 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:24:41,838 root INFO Sprawdzenie Czasu:
+17:24:41,838 root INFO 0:00:00.038503
+17:24:41,839 root INFO Sprawdzenie Status Code:
+17:24:41,840 root INFO 200
+17:24:41,846 root INFO Sprawdzenie Content type:
+17:24:41,846 root INFO application/json; charset=utf-8
+17:24:41,888 root INFO Sprawdzenie struktury JSONa:
+17:24:41,912 root INFO None
+17:24:46,916 root INFO Wyslam zadanie Get na zadany host:
+17:24:46,916 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:24:47,8 root INFO Sprawdzenie Czasu:
+17:24:47,8 root INFO 0:00:00.087199
+17:24:47,9 root INFO Sprawdzenie Status Code:
+17:24:47,10 root INFO 200
+17:24:47,16 root INFO Sprawdzenie Content type:
+17:24:47,19 root INFO application/json; charset=utf-8
+17:24:47,54 root INFO Sprawdzenie struktury JSONa:
+17:24:47,78 root INFO None
+17:24:52,88 root INFO Wyslam zadanie Get na zadany host:
+17:24:52,88 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:24:52,135 root INFO Sprawdzenie Czasu:
+17:24:52,135 root INFO 0:00:00.041434
+17:24:52,136 root INFO Sprawdzenie Status Code:
+17:24:52,136 root INFO 200
+17:24:52,143 root INFO Sprawdzenie Content type:
+17:24:52,143 root INFO application/json; charset=utf-8
+17:24:52,184 root INFO Sprawdzenie struktury JSONa:
+17:24:52,208 root INFO None
+17:24:57,217 root INFO Wyslam zadanie Get na zadany host:
+17:24:57,217 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:24:57,258 root INFO Sprawdzenie Czasu:
+17:24:57,258 root INFO 0:00:00.035540
+17:24:57,259 root INFO Sprawdzenie Status Code:
+17:24:57,259 root INFO 200
+17:24:57,266 root INFO Sprawdzenie Content type:
+17:24:57,267 root INFO application/json; charset=utf-8
+17:24:57,303 root INFO Sprawdzenie struktury JSONa:
+17:24:57,329 root INFO None
+17:25:02,335 root INFO Wyslam zadanie Get na zadany host:
+17:25:02,335 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:25:02,380 root INFO Sprawdzenie Czasu:
+17:25:02,380 root INFO 0:00:00.039311
+17:25:02,380 root INFO Sprawdzenie Status Code:
+17:25:02,380 root INFO 200
+17:25:02,390 root INFO Sprawdzenie Content type:
+17:25:02,390 root INFO application/json; charset=utf-8
+17:25:02,427 root INFO Sprawdzenie struktury JSONa:
+17:25:02,452 root INFO None
+17:25:07,453 root INFO Wyslam zadanie Get na zadany host:
+17:25:07,453 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:25:07,509 root INFO Sprawdzenie Czasu:
+17:25:07,509 root INFO 0:00:00.050139
+17:25:07,510 root INFO Sprawdzenie Status Code:
+17:25:07,510 root INFO 200
+17:25:07,517 root INFO Sprawdzenie Content type:
+17:25:07,520 root INFO application/json; charset=utf-8
+17:25:07,558 root INFO Sprawdzenie struktury JSONa:
+17:25:07,583 root INFO None
+17:25:12,586 root INFO Wyslam zadanie Get na zadany host:
+17:25:12,586 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:25:12,644 root INFO Sprawdzenie Czasu:
+17:25:12,644 root INFO 0:00:00.052381
+17:25:12,645 root INFO Sprawdzenie Status Code:
+17:25:12,645 root INFO 200
+17:25:12,652 root INFO Sprawdzenie Content type:
+17:25:12,653 root INFO application/json; charset=utf-8
+17:25:12,700 root INFO Sprawdzenie struktury JSONa:
+17:25:12,723 root INFO None
+17:37:06,821 root INFO Wyslam zadanie Get na zadany host:
+17:37:06,849 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:37:07,72 root INFO Sprawdzenie Czasu:
+17:37:07,72 root INFO 0:00:00.155769
+17:37:07,73 root INFO Sprawdzenie Status Code:
+17:37:07,73 root INFO 200
+17:37:07,74 root INFO Sprawdzenie Content type:
+17:37:07,74 root INFO application/json; charset=utf-8
+17:37:07,127 root INFO Sprawdzenie struktury JSONa:
+17:37:07,151 root INFO None
+17:37:12,157 root INFO Wyslam zadanie Get na zadany host:
+17:37:12,157 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:37:12,202 root INFO Sprawdzenie Czasu:
+17:37:12,202 root INFO 0:00:00.040729
+17:37:12,203 root INFO Sprawdzenie Status Code:
+17:37:12,203 root INFO 200
+17:37:12,203 root INFO Sprawdzenie Content type:
+17:37:12,203 root INFO application/json; charset=utf-8
+17:37:12,240 root INFO Sprawdzenie struktury JSONa:
+17:37:12,262 root INFO None
+17:37:17,263 root INFO Wyslam zadanie Get na zadany host:
+17:37:17,263 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:37:17,323 root INFO Sprawdzenie Czasu:
+17:37:17,323 root INFO 0:00:00.054482
+17:37:17,324 root INFO Sprawdzenie Status Code:
+17:37:17,324 root INFO 200
+17:37:17,325 root INFO Sprawdzenie Content type:
+17:37:17,325 root INFO application/json; charset=utf-8
+17:37:17,371 root INFO Sprawdzenie struktury JSONa:
+17:37:17,393 root INFO None
+17:37:22,396 root INFO Wyslam zadanie Get na zadany host:
+17:37:22,396 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:37:22,456 root INFO Sprawdzenie Czasu:
+17:37:22,456 root INFO 0:00:00.054199
+17:37:22,457 root INFO Sprawdzenie Status Code:
+17:37:22,457 root INFO 200
+17:37:22,457 root INFO Sprawdzenie Content type:
+17:37:22,458 root INFO application/json; charset=utf-8
+17:37:22,502 root INFO Sprawdzenie struktury JSONa:
+17:37:22,523 root INFO None
+17:37:27,534 root INFO Wyslam zadanie Get na zadany host:
+17:37:27,534 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:37:27,581 root INFO Sprawdzenie Czasu:
+17:37:27,581 root INFO 0:00:00.042061
+17:37:27,582 root INFO Sprawdzenie Status Code:
+17:37:27,582 root INFO 200
+17:37:27,582 root INFO Sprawdzenie Content type:
+17:37:27,583 root INFO application/json; charset=utf-8
+17:37:27,630 root INFO Sprawdzenie struktury JSONa:
+17:37:27,650 root INFO None
+17:37:32,660 root INFO Wyslam zadanie Get na zadany host:
+17:37:32,660 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:37:33,709 root INFO Sprawdzenie Czasu:
+17:37:33,709 root INFO 0:00:01.043004
+17:37:33,710 root INFO Sprawdzenie Status Code:
+17:37:33,710 root INFO 200
+17:37:33,710 root INFO Sprawdzenie Content type:
+17:37:33,711 root INFO application/json; charset=utf-8
+17:37:33,747 root INFO Sprawdzenie struktury JSONa:
+17:37:33,767 root INFO None
+17:37:38,770 root INFO Wyslam zadanie Get na zadany host:
+17:37:38,771 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:37:38,821 root INFO Sprawdzenie Czasu:
+17:37:38,822 root INFO 0:00:00.044803
+17:37:38,822 root INFO Sprawdzenie Status Code:
+17:37:38,822 root INFO 200
+17:37:38,823 root INFO Sprawdzenie Content type:
+17:37:38,823 root INFO application/json; charset=utf-8
+17:37:38,865 root INFO Sprawdzenie struktury JSONa:
+17:37:38,885 root INFO None
+17:37:43,895 root INFO Wyslam zadanie Get na zadany host:
+17:37:43,895 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:37:43,941 root INFO Sprawdzenie Czasu:
+17:37:43,941 root INFO 0:00:00.040761
+17:37:43,942 root INFO Sprawdzenie Status Code:
+17:37:43,942 root INFO 200
+17:37:43,943 root INFO Sprawdzenie Content type:
+17:37:43,943 root INFO application/json; charset=utf-8
+17:37:43,992 root INFO Sprawdzenie struktury JSONa:
+17:37:44,13 root INFO None
+17:37:49,14 root INFO Wyslam zadanie Get na zadany host:
+17:37:49,14 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:37:50,66 root INFO Sprawdzenie Czasu:
+17:37:50,66 root INFO 0:00:01.046330
+17:37:50,67 root INFO Sprawdzenie Status Code:
+17:37:50,67 root INFO 200
+17:37:50,67 root INFO Sprawdzenie Content type:
+17:37:50,68 root INFO application/json; charset=utf-8
+17:37:50,114 root INFO Sprawdzenie struktury JSONa:
+17:37:50,134 root INFO None
+17:37:55,140 root INFO Wyslam zadanie Get na zadany host:
+17:37:55,140 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:37:55,181 root INFO Sprawdzenie Czasu:
+17:37:55,181 root INFO 0:00:00.035897
+17:37:55,182 root INFO Sprawdzenie Status Code:
+17:37:55,182 root INFO 200
+17:37:55,182 root INFO Sprawdzenie Content type:
+17:37:55,183 root INFO application/json; charset=utf-8
+17:37:55,216 root INFO Sprawdzenie struktury JSONa:
+17:37:55,237 root INFO None
+17:41:34,428 root INFO Wyslam zadanie Get na zadany host:
+17:41:34,429 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:41:34,515 root INFO Sprawdzenie Czasu:
+17:41:34,516 root INFO 0:00:00.076231
+17:41:34,516 root INFO Sprawdzenie Status Code:
+17:41:34,517 root INFO 200
+17:41:34,546 root INFO Sprawdzenie Content type:
+17:41:34,547 root INFO application/json; charset=utf-8
+17:41:34,591 root INFO Sprawdzenie struktury JSONa:
+17:41:34,621 root INFO None
+17:41:39,633 root INFO Wyslam zadanie Get na zadany host:
+17:41:39,633 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:41:39,700 root INFO Sprawdzenie Czasu:
+17:41:39,700 root INFO 0:00:00.060865
+17:41:39,701 root INFO Sprawdzenie Status Code:
+17:41:39,702 root INFO 200
+17:41:39,709 root INFO Sprawdzenie Content type:
+17:41:39,710 root INFO application/json; charset=utf-8
+17:41:39,752 root INFO Sprawdzenie struktury JSONa:
+17:41:39,779 root INFO None
+17:41:44,791 root INFO Wyslam zadanie Get na zadany host:
+17:41:44,791 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:41:44,854 root INFO Sprawdzenie Czasu:
+17:41:44,854 root INFO 0:00:00.057826
+17:41:44,855 root INFO Sprawdzenie Status Code:
+17:41:44,855 root INFO 200
+17:41:44,860 root INFO Sprawdzenie Content type:
+17:41:44,861 root INFO application/json; charset=utf-8
+17:41:44,896 root INFO Sprawdzenie struktury JSONa:
+17:41:44,923 root INFO None
+17:41:49,941 root INFO Wyslam zadanie Get na zadany host:
+17:41:49,941 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:41:50,3 root INFO Sprawdzenie Czasu:
+17:41:50,3 root INFO 0:00:00.055873
+17:41:50,4 root INFO Sprawdzenie Status Code:
+17:41:50,4 root INFO 200
+17:41:50,11 root INFO Sprawdzenie Content type:
+17:41:50,12 root INFO application/json; charset=utf-8
+17:41:50,58 root INFO Sprawdzenie struktury JSONa:
+17:41:50,86 root INFO None
+17:41:55,93 root INFO Wyslam zadanie Get na zadany host:
+17:41:55,93 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:41:55,152 root INFO Sprawdzenie Czasu:
+17:41:55,152 root INFO 0:00:00.053646
+17:41:55,153 root INFO Sprawdzenie Status Code:
+17:41:55,153 root INFO 200
+17:41:55,161 root INFO Sprawdzenie Content type:
+17:41:55,163 root INFO application/json; charset=utf-8
+17:41:55,252 root INFO Sprawdzenie struktury JSONa:
+17:41:55,283 root INFO None
+17:42:00,292 root INFO Wyslam zadanie Get na zadany host:
+17:42:00,292 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:42:00,337 root INFO Sprawdzenie Czasu:
+17:42:00,337 root INFO 0:00:00.040764
+17:42:00,338 root INFO Sprawdzenie Status Code:
+17:42:00,338 root INFO 200
+17:42:00,346 root INFO Sprawdzenie Content type:
+17:42:00,346 root INFO application/json; charset=utf-8
+17:42:00,394 root INFO Sprawdzenie struktury JSONa:
+17:42:00,424 root INFO None
+17:42:05,438 root INFO Wyslam zadanie Get na zadany host:
+17:42:05,439 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:42:05,487 root INFO Sprawdzenie Czasu:
+17:42:05,487 root INFO 0:00:00.043326
+17:42:05,488 root INFO Sprawdzenie Status Code:
+17:42:05,488 root INFO 200
+17:42:05,495 root INFO Sprawdzenie Content type:
+17:42:05,495 root INFO application/json; charset=utf-8
+17:42:05,550 root INFO Sprawdzenie struktury JSONa:
+17:42:05,575 root INFO None
+17:42:10,587 root INFO Wyslam zadanie Get na zadany host:
+17:42:10,587 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:42:10,639 root INFO Sprawdzenie Czasu:
+17:42:10,639 root INFO 0:00:00.047058
+17:42:10,640 root INFO Sprawdzenie Status Code:
+17:42:10,641 root INFO 200
+17:42:10,647 root INFO Sprawdzenie Content type:
+17:42:10,647 root INFO application/json; charset=utf-8
+17:42:10,687 root INFO Sprawdzenie struktury JSONa:
+17:42:10,712 root INFO None
+17:42:15,716 root INFO Wyslam zadanie Get na zadany host:
+17:42:15,716 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:42:15,769 root INFO Sprawdzenie Czasu:
+17:42:15,769 root INFO 0:00:00.047454
+17:42:15,770 root INFO Sprawdzenie Status Code:
+17:42:15,770 root INFO 200
+17:42:15,806 root INFO Sprawdzenie Content type:
+17:42:15,807 root INFO application/json; charset=utf-8
+17:42:15,860 root INFO Sprawdzenie struktury JSONa:
+17:42:15,887 root INFO None
+17:42:20,895 root INFO Wyslam zadanie Get na zadany host:
+17:42:20,895 root INFO http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json
+17:42:20,948 root INFO Sprawdzenie Czasu:
+17:42:20,948 root INFO 0:00:00.047752
+17:42:20,949 root INFO Sprawdzenie Status Code:
+17:42:20,950 root INFO 200
+17:42:20,956 root INFO Sprawdzenie Content type:
+17:42:20,956 root INFO application/json; charset=utf-8
+17:42:21,1 root INFO Sprawdzenie struktury JSONa:
+17:42:21,25 root INFO None

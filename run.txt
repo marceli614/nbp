@@ -1,0 +1,34 @@
+Run Nbp.py
+
+1.Uruchomienie z wiersza polecen.
+polecenie: python nazwa_pliku.py arg_x arg_y
+np.
+
+python nbp.py 10 5
+
+Zaimportowanie dodatkowych bibliotek przed uruchomieniem skryptu.
+poleenie:
+
+pip install requests
+
+pip install jsonschema
+
+2.IDE Pycharm
+
+Uruchomienie skryptu:
+
+Menu 
+Run > Run 'nbp'
+
+Zaimportowanie dodatkowych bibliotek przed uruchomieniem skryptu.
+
+Menu
+File > Settings > Project
+>> Python Interpreter
+	add package
+
+
+
+
+
+
